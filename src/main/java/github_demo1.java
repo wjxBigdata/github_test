@@ -7,5 +7,6 @@ public class github_demo1 {
         System.out.println("master test");
         System.out.println("hello_fix test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
